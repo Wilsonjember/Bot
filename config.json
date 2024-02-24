@@ -1,0 +1,33 @@
+{
+    "ownerNumber": ["6283110933360@s.whatsapp.net","6283110933360@s.whatsapp.net"],
+    "ownerName": "𝑷𝑼𝑻𝒁",
+    "instagram" : "https://ibb.co/WzSNp3L",
+    "gcwa" : "https://chat.whatsapp.com/L4f6xPxCzZVIxAp4KEzLk6",
+    "botName": "Botz Store",
+    "footer": "Botz Store",
+    "sessionName": "session",
+    "fotoDonasi": "./qris.jpg",
+    "pathimg": "./Haruka.jpg",
+    "BotKey": "https://api.zahwazein.xyz",
+    "OpenAIKey": "dryanbot",
+    "audio_di_bagian_menu": "./menu.mp3",
+    "auto_ai_japri": false,
+    "auto_ai_grup": false,
+    "auto_welcomeMsg": false,
+    "auto_leaveMsg": false, 
+    "antiViewOnce": false,
+    "grupOnly": false,
+    "japriOnly": false, 
+    "antiDelete": false,
+    "autobio": false,
+    "anticall": true,
+    "autorespond": false,
+    "autoblok212": true,
+    "autoread": false,
+    "gamewaktu": 90,
+    "limitCount": 100,
+    "gcount": {
+        "prem": 999999,
+        "user": 15
+    }
+}
